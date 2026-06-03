@@ -1,8 +1,8 @@
-\# DevOps Basic Project
+# DevOps Basic Project
 
 
 
-\## Overview
+## Overview
 
 
 
@@ -10,7 +10,7 @@ This repository contains a simple HTML application created as part of the DevOps
 
 
 
-\## Project Structure
+## Project Structure
 
 
 
@@ -26,41 +26,41 @@ Devops-Basic-Project/
 
 
 
-\## How to Run
+## How to Run
 
 
 
-1\. Download or clone this repository.
+1. Download or clone this repository.
 
-2\. Open `index.html` in any web browser.
+2. Open `index.html` in any web browser.
 
-3\. The sample webpage will be displayed.
-
-
-
-\## Technologies Used
+3. The sample webpage will be displayed.
 
 
 
-\- HTML5
-
-\- Git
-
-\- GitHub
+## Technologies Used
 
 
 
-\## Purpose
+- HTML5
+
+- Git
+
+- GitHub
+
+
+
+## Purpose
 
 
 
 The purpose of this project is to learn:
 
-\- Repository creation on GitHub
+- Repository creation on GitHub
 
-\- Git version control commands
+- Git version control commands
 
-\- Project documentation using Markdown
+- Project documentation using Markdown
 
-\- Code management and collaboration basics
+- Code management and collaboration basics
 
