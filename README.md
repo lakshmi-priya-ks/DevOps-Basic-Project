@@ -4,25 +4,63 @@
 
 \## Overview
 
-This repository contains a simple HTML application created as part of the DevOps learning track.
+
+
+This repository contains a simple HTML application created as part of the DevOps Learning Track. The project demonstrates basic GitHub repository setup, project organization, and version control practices.
 
 
 
 \## Project Structure
 
-\- index.html – Sample web page
 
-\- README.md – Project documentation
+
+```text
+
+Devops-Basic-Project/
+
+├── index.html
+
+└── README.md
+
+```
 
 
 
 \## How to Run
 
-Open index.html in any web browser.
+
+
+1\. Download or clone this repository.
+
+2\. Open `index.html` in any web browser.
+
+3\. The sample webpage will be displayed.
+
+
+
+\## Technologies Used
+
+
+
+\- HTML5
+
+\- Git
+
+\- GitHub
 
 
 
 \## Purpose
 
-Learn GitHub repository creation, project organization, and version control basics.
+
+
+The purpose of this project is to learn:
+
+\- Repository creation on GitHub
+
+\- Git version control commands
+
+\- Project documentation using Markdown
+
+\- Code management and collaboration basics
 
